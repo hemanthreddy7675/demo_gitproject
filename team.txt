@@ -1,0 +1,10 @@
+team divides into groups
+    group A
+       manthu
+       vishnu
+       krthik
+    group B
+       somu
+       basker rao
+       bunny
+   
